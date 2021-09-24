@@ -1,0 +1,6 @@
+Testing Scenarios:
+1: Happy Path includes a known and verifiable username and password.
+2: Corner Case One includes a known username but incorrect password.
+3: Corner Case Two includes an incorrect username but a correct password.
+4: Corner Case Three includes no input.
+5: Corner Case Four includes input for username but no input for password.
